@@ -1,0 +1,7 @@
+{
+    "name": "IRremote",
+    "version": "0.0.1",
+    "author": "Ken Shirriff",
+    "license": "LGPL-2.1",
+    "description": "IRremote library modified to work on Particle Photon"
+}
